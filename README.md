@@ -1,4 +1,4 @@
-**baseURL : *https://relieved-goat-sock.cyclic.app*
+**baseURL : **
 
 ### Landing page data endpoint
 1. Ex:
